@@ -1,5 +1,8 @@
 # JavaScript-WeatherApp
-## Weather App with Vanilla JavaScript
-I used API keys from this [link](https://openweathermap.org/)
+Demo - Deployed over Github Pages
 https://jangitisanthoshkumar.github.io/Weather-Application/
 
+APIs Used
+Open Weather APIs
+
+https://openweathermap.org/current
