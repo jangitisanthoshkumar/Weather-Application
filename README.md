@@ -20,7 +20,7 @@ https://openweathermap.org/current
 
   ## 🔴 Live Demo
 
-- [Weather App - github](https://jangitisanthoshkumar.github.io/Weather-Application/)
+- [Weather Application - github](https://jangitisanthoshkumar.github.io/Weather-Application/)
 
 
 ## Show your support
