@@ -18,6 +18,10 @@ https://openweathermap.org/current
 - Javascript
 - OpenWeatherMap API
 
+  ## 🔴 Live Demo
+
+- [Weather App - github](https://jangitisanthoshkumar.github.io/Weather-Application/)
+
 
 ## Show your support
 
